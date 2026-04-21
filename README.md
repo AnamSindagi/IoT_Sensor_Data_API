@@ -48,10 +48,9 @@ iot-sensor-api/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/iot-sensor-api.git
+git clone https://github.com/AnamSindagi/IoT_Sensor_Data_API
 
-cd iot-sensor-api
-
+cd  IoT_Sensor_Data_API
 
 ### 2️⃣ Install dependencies
 
@@ -117,8 +116,8 @@ Add authentication & security
 
 🧑‍💻 Author
 
-[Your Name]
-GitHub: https://github.com/your-username
+ANAM SINDAGI
+GitHub: https://github.com/AnamSindagi
 
 
 
